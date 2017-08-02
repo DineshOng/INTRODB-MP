@@ -1,1 +1,3 @@
 # INTRODBMP
+
+run smdb.java
